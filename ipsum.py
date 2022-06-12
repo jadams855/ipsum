@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import random,datetime,pyperclip
 
 message='Please disregard -- TESTING --'
